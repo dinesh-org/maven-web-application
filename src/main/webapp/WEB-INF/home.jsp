@@ -5,10 +5,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<spring:url value="/resources/images/mithunlogo.jpg" var="mithunlogo" />
+<spring:url value="/resources/images/dineshlogo.jpg" var="dineshlogo" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Dinesh Software Solutions- Home Page</title>
-<link href="${mithunlogo}" rel="icon">
+<link href="${dineshlogo}" rel="icon">
 </head>
 </head>
 <body>
@@ -19,7 +19,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="${mithunlogo}" alt="" width="100"/>
+		<img src="${dineshlogo}" alt="" width="100"/>
 
 	</span>
 	<span style="font-weight: bold;">
