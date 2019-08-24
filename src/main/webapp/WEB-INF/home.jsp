@@ -35,7 +35,7 @@
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <p align=center>Dinesh Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://dineshtechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://dineshtechnologies.com/">dinesh Technologies</a> </small></p>
 
 </body>
 </html>
