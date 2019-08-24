@@ -22,7 +22,7 @@ stage('Nexus upload'){
    
    stage('Deployapptotomcat'){
        sshagent(['tomcatredhat']) {
-   sh "scp -o StrictHostKeyChecking=no target/*.war ec2-user@13.233.186.218:/opt/apache-tomcat-9.0.24/webapps"
+   sh "scp -o StrictHostKeyChecking=no target/*.war ec2-user@13.233.113.133:/opt/apache-tomcat-9.0.24/webapps"
     
       }
    }
